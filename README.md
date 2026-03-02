@@ -93,7 +93,7 @@ python app.py
 
 ### 🎯 Future Improvements
 
--Improve model accuracy using CNN
--Build a GUI for digit drawing
--Deploy as a web application
--Add real-time webcam digit recognition
+- Improve model accuracy using CNN
+- Build a GUI for digit drawing
+- Deploy as a web application
+- Add real-time webcam digit recognition
